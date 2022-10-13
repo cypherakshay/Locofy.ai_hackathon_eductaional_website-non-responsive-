@@ -1,0 +1,24 @@
+:root {
+  --font-dm-sans: "DM Sans";
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 40px;
+  --font-size-4xl: 56px;
+  --color-white: #fff;
+  --color-gray-100: #fdf0e9;
+  --color-gray-200: #333;
+  --color-gray-300: #ffffff4d;
+  --color-gray-400: #33333380;
+  --color-gray-500: #ffffff80;
+  --color-violet-100: #6483f6;
+  --color-brown-100: #f07867;
+  --color-brown-200: #f078674d;
+  --color-beige: #efded5;
+  --br-md: 8px;
+}
+
+/*# sourceMappingURL=index.689f5f05.css.map */
