@@ -1,0 +1,29 @@
+:root {
+  /* fonts */
+  --font-dm-sans: "DM Sans";
+
+  /* font sizes */
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-xl: 20px;
+  --font-size-2xl: 24px;
+  --font-size-3xl: 40px;
+  --font-size-4xl: 56px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #fdf0e9;
+  --color-gray-200: #333;
+  --color-gray-300: rgba(255, 255, 255, 0.3);
+  --color-gray-400: rgba(51, 51, 51, 0.5);
+  --color-gray-500: rgba(255, 255, 255, 0.5);
+  --color-violet-100: #6483f6;
+  --color-brown-100: #f07867;
+  --color-brown-200: rgba(240, 120, 103, 0.3);
+  --color-beige: #efded5;
+
+  /* border radiuses */
+  --br-md: 8px;
+}
