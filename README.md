@@ -11,7 +11,7 @@
 
 
 
-![A.I. Powered Web Design with Locofy.ai](https://user-images.githubusercontent.com/110058268/195703792-a5702f0a-d5f1-44f7-aac0-5211abc36c37.png)
+# `FINDCODER HACKATHON` - Generate code with A.I. powered Plugin Locofy.ai in few minutes
 
 &nbsp;
 
@@ -20,7 +20,7 @@
 
 
 
-## **CYPHER EDUCATION -**  Locofy.ai & Findcoder *HACKATHON* `(static page website demo)`
+## **CYPHER EDUCATION** -*Education website generated with figma plugin - Locofy.ai*   `(static page website demo)`
 
 &nbsp;
 
@@ -28,18 +28,47 @@
 
 &nbsp;
 
-This project is a home page of nursery plantation website. In this project, I learned to create customize Nav-bar and this was intentionally given ID instead of classes for practice, In this project we practice some non-produciton ready code to just learn the context of the property like : Id, making dots with ul>li tags and so on. I learned a lot what to write and how to write in production ready-code. which makes the learning significantly easier.
- 
+In this hackathon, Locofy gives a problem statement to freely use its Locofy plugin with Figma and create a good visual web/app by generating front-end code with A.I. <br>
+
+So, I created an educational website with Figma and then used the Locofy plugin to tag some elements (you can check the explanation video below). And the whole frontend code is generated in a few minutes. then I push this to the GitHub repo and deploy it on Netlify.
+
+
+**Now, there is a new slang on the internet :**
+&nbsp;
+
+>***" FIGMA to LOCOFY "***
 
 &nbsp;
 
-I write the code with the proper comments to understand its reference easily to the other coder and also this page is not mobile responsive cause I am learning the execution of code, I want to inculcate the basics first.   
+### Disclaimer :
+`Please consider a laptop screen of 1440px to check this website. This is not mobile responsive and the best visual will fit on the laptop screen. 
+Locofy is new to me so, I was a little confused about how to configure responsiveness and many options like hover effects and so on. but I will consider it my prior wishlist to learn this technology precisely.   `
 &nbsp;
 
 
 ### **Time Duration :  12 minutes to complete this project**
 
 &nbsp;
+
+
+# **Explanation Video**
+
+### `Click below on thumbnail to watch my youtube video of this hackathon :`
+
+
+> [![Explanation Video](https://img.youtube.com/vi/2zIJojX0mXo/0.jpg)](https://www.youtube.com/watch?v=2zIJojX0mXo)
+
+
+
+
+&nbsp;
+
+You can also like my LinkedIn post also - [Click Here](https://rb.gy/fndfov)
+
+&nbsp;
+
+&nbsp;
+
 
 ## **TECH STACK**
 
