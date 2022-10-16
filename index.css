@@ -1603,3 +1603,17 @@ body {
   color: var(--color-gray-200);
   font-family: var(--font-dm-sans);
 }
+
+/* Hover-Effects */
+.btn:hover {
+  background-color: #ed4832;
+}
+.btn1:hover {
+  border: 2px solid #ed4832 ;
+}
+.btn3:hover {
+border: 2px solid #ffffff;
+}
+.btn4:hover {
+background-color: #214def;
+}
